@@ -1,5 +1,11 @@
 # Electra-Jailbreak-11.4-11.4.1-Final-Version
 
+1.2.1 Changelog :
+
+- Fix build number so 11.4 - 11.4.1 works properly
+
+1.2.0 Changelog :
+
 - Supports iOS 11.4 - 11.4.1
 - Add async_wake exploit to add support for iOS 11.0 - 11.1.2
 - Use voucher_swap exploit instead of empty_list for iOS 11.2 - 11.4.1
