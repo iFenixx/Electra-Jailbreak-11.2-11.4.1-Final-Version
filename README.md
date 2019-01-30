@@ -1,4 +1,4 @@
-# Electra-Jailbreak-11.2-11.4.1-Final-Version
+# Electra-Jailbreak-11.4-11.4.1-Final-Version
 
 - Supports iOS 11.4 - 11.4.1
 - Add async_wake exploit to add support for iOS 11.0 - 11.1.2
