@@ -1,5 +1,25 @@
 # Electra-Jailbreak-11.4-11.4.1-Final-Version
 
+
+1.2.6 Changelog :
+
+-Fix offsetfinder path issue for A7 & A8 devices on 11.4-11.4.1
+
+1.2.5 Changelog :
+
+- Fix sandbox issues causing app crash on A7 & A8 devices on 11.4-11.4.1
+- Fix post-exploitation (stage 2) failures on A7 & A8 devices on 11.2 - 11.4.1
+
+1.2.3 Changelog :
+
+- Replace threadm1ll exploit with v1ntex for A7 & A8 devices on 11.2-11.4.1
+- Fix initial ldrestart not working on some devices
+
+1.2.2 Changelog :
+
+- Fix async_wake so jailbreaking 11.0-11.1.2 works properly
+- Fix nonce generator button not working
+
 1.2.1 Changelog :
 
 - Fix build number so 11.4 - 11.4.1 works properly
