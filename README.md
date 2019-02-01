@@ -1,6 +1,11 @@
 # Electra-Jailbreak-11.4-11.4.1-Final-Version
 
 
+1.2.7 Changelog :
+
+Fix a bug in v1ntex that resulted a kernel panic later in Step 2
+Actually test on an A7 device on 11.4 (thanks PastRestore on discord)
+
 1.2.6 Changelog :
 
 -Fix offsetfinder path issue for A7 & A8 devices on 11.4-11.4.1
