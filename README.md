@@ -1,6 +1,14 @@
 # Electra-Jailbreak-11.4-11.4.1-Final-Version
 
 
+1.3.0 Changelog :
+
+- No longer require platformization to control launchd (requires tweaks switch enabled)
+- Replace jailbreakd with jailbreakd2 (Next-gen fully-async jailbreakd with prioritization and a faster queuing system)
+- jailbreakd2: Fix freezing in low memory conditions
+- jailbreakd2: Faster ldrestarts, resprings
+- jailbreakd2: XCode debugging success rate improved (click continue in the debugger on SIGCONT to proceed debugging)
+
 1.2.7 Changelog :
 
 Fix a bug in v1ntex that resulted a kernel panic later in Step 2
