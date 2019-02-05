@@ -1,6 +1,11 @@
 # Electra-Jailbreak-11.4-11.4.1-Final-Version
 
 
+1.3.1 Changelog :
+
+- Increase jailbreak success rate on A7 - A8 on 11.2+
+- Update liboffsetfinder64 to latest version
+
 1.3.0 Changelog :
 
 - No longer require platformization to control launchd (requires tweaks switch enabled)
