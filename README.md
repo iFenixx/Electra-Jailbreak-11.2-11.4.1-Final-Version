@@ -1,6 +1,11 @@
 # Electra-Jailbreak-11.4-11.4.1-Final-Version
 
 
+1.3.2 Changelog :
+
+-Now ships with both Cydia and Sileo installed by default (Cydia will eventually no longer be shipped by default, but will always be installable)
+
+
 1.3.1 Changelog :
 
 - Increase jailbreak success rate on A7 - A8 on 11.2+
