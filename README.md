@@ -3,8 +3,7 @@
 
 1.3.2 Changelog :
 
--Now ships with both Cydia and Sileo installed by default (Cydia will eventually no longer be shipped by default, but will always be installable)
-
+- Now ships with both Cydia and Sileo installed by default (Cydia will eventually no longer be shipped by default, but will always be installable)
 
 1.3.1 Changelog :
 
